@@ -1,0 +1,6 @@
+{
+  "input_dim": 500,
+  "optimal_threshold": 0.6079884171485901,
+  "model_class": "BetterSpamModel",
+  "vectorizer_type": "TfidfVectorizer"
+}
